@@ -4,6 +4,15 @@
 <img width="1920" alt="Slide 16_9 - 15" src="https://github.com/user-attachments/assets/231fd6ce-9c21-4180-9801-d01813b16c04" />
 
 ***
+### solution
+1. 고객 상황에 맞는 문의 대응이 가능하다.
+2. 대화 내용을 분석해하여 주문 상황을 인지하고 결제까지 자동 처리한다.
+3. 실시간 알림 시스템으로 주문 및 요청 상황을 빠르게 전달한다.
+   </br>
+![35](https://github.com/user-attachments/assets/d77440b8-5280-44aa-b2fb-fc471cf53358)
+
+
+***
 
 | Yeojin Lee | Kaeun Yeon | Jooyeon Lee |
 |:-------:|:-------:|:-------:|
